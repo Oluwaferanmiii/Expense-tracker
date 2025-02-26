@@ -49,15 +49,13 @@ This project demonstrates key Python concepts including:
 ---
 
 ## 📁 Project Structure
-
-```mermaid
-graph TD;
-    A[expense-tracker] --> B[database.py <br> Manages SQLite database operations]
-    A --> C[expense_tracker.py <br> Business logic for expense tracker]
-    A --> D[main.py <br> Entry point (User Interface)]
-    A --> E[expenses.db <br> SQLite database file (auto-created)]
-    A --> F[expenses.json <br> JSON file for export/import (optional)]
-```
+expense-tracker/ 
+│ 
+├── database.py # Manages SQLite database operations 
+├── expense_tracker.py # Business logic for the expense tracker 
+├── main.py # Entry point for the application (User Interface) 
+├── expenses.db # SQLite database file (auto-created on first run) 
+└── expenses.json # JSON file for export/import (optional)
 
 ---
 
