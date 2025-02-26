@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "amount": 2000.0,
+        "category": "bills",
+        "date": "2024-03-15",
+        "description": "investment"
+    },
+    {
+        "id": 2,
+        "amount": 3650.0,
+        "category": "food",
+        "date": "2025-01-05",
+        "description": "allowance"
+    },
+    {
+        "id": 3,
+        "amount": 2000.0,
+        "category": "bills",
+        "date": "2024-03-15",
+        "description": "investment"
+    },
+    {
+        "id": 4,
+        "amount": 3650.0,
+        "category": "food",
+        "date": "2025-01-05",
+        "description": "allowance"
+    },
+    {
+        "id": 5,
+        "amount": 1500.0,
+        "category": "transport",
+        "date": "2025-01-01",
+        "description": "transport fee"
+    },
+    {
+        "id": 8,
+        "amount": 345.0,
+        "category": "bills",
+        "date": "2023-10-09",
+        "description": "just bills"
+    }
+]
